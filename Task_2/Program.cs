@@ -10,8 +10,6 @@ Console.Write("Enter the second number: ");
 
 double numB = double.Parse(Console.ReadLine() ?? "0");
 
-double temp = 0;
-
 if(numA < numB)
 {
  
